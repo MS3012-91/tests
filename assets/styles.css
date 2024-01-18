@@ -5,11 +5,15 @@ body {
     color:cadetblue;
 }
 
-.container {
+/* .container {
     width: 500px;
     height: 600px;
     overflow: hidden;
     background-color: blue;
     margin: 100px;
     opacity: 0.6;
+} */
+.main {
+    /* position: relative; */
 }
+
